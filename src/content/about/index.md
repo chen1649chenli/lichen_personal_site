@@ -2,18 +2,14 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - HTML & SCSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - Google Cloud & AWS
+  - Airflow
+  - Docker
+  - Java
+  - Python
+  - SQL
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Hello! I'm Li, a software engineer specializing in Big Data and Analytics. I design and implement data pipelines,visualizations and analytics solutions that enable bsuiness to make critical decisions. I develop web apps with efficient and modern backends as a hobby.
 
 Here's a few technologies I've been working with recently:
