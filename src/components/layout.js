@@ -57,7 +57,7 @@ class Layout extends Component {
   finishLoading = () => this.setState({ isLoading: false });
 
   componentDidMount() {
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/chen1649chenli/my_personal_site')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
