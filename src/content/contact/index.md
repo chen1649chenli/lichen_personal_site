@@ -2,4 +2,4 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+Since my wife will join Georgia State University as a faculty member, we are planning to move to Atlanta this summer. I'm looking for a software engineer or data engineer position in companies located in Atlanta.
