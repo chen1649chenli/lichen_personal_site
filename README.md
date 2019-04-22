@@ -2,13 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/94f93a07-c0cf-4603-929c-b70866c5faf6/deploy-status)](https://app.netlify.com/sites/amazing-yalow-4c997a/deploys)
 
-The fourth iteration of my personal site built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/).
-
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
->
-> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
-
-👀 [Looking for v3?](https://bchiang7.github.io/)
+My personal site built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
 ## 🚀 Quick Start
 
