@@ -8,7 +8,6 @@ import { throttle } from '@utils';
 import { navHeight } from '@config';
 import resume from '@images/resume.pdf';
 import Menu from '@components/menu';
-import { IconLogo } from '@components/icons';
 import styled from 'styled-components';
 import { theme, mixins, media } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -261,9 +260,7 @@ class Nav extends Component {
             {isMounted && (
               <CSSTransition classNames="fade" timeout={3000}>
                 <Logo>
-                  <LogoLink to="/" aria-label="Home">
-                    <IconLogo />
-                  </LogoLink>
+                  <LogoLink to="/" aria-label="Home" />
                 </Logo>
               </CSSTransition>
             )}
