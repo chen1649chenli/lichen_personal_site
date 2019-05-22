@@ -2,8 +2,7 @@ module.exports = {
   siteTitle: 'Li Chen | Software Engineer',
   siteDescription:
     'Li Chen is a software engineer based in Atlanta, GA who specializes in data engineering and analytics.',
-  siteKeywords:
-    'Li Chen, chen1649chenli, software engineer, data engineer, data visualization',
+  siteKeywords: 'Li Chen, chen1649chenli, software engineer, data engineer, data visualization',
   siteUrl: 'https://lichen1649.com',
   siteLanguage: 'en_US',
 
@@ -20,7 +19,7 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/lichen1649/',
-    }
+    },
   ],
 
   navLinks: [
@@ -29,11 +28,11 @@ module.exports = {
       url: '#about',
     },
     {
-      name: 'Experience',
+      name: 'Employment',
       url: '#jobs',
     },
     {
-      name: 'Work',
+      name: 'Project',
       url: '#projects',
     },
     {
