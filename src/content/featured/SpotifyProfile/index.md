@@ -1,15 +1,15 @@
 ---
 date: '3'
-title: 'Spotify Profile'
+title: 'CorkBoardIT'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/chen1649chenli/CorkBoardIT'
+external: 'tbd'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Styled Components
+  - Flask
+  - Python
+  - Mysql
+  - Docker
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+CorkBoardIt is an online forum for creating CorkBoards, filling them with pictures, and sharing them with your friends. CorkBoardIt is a simplified site from Pinterest with support for the most important features of an image organization and sharing site: users, CorkBoards, Pushpins (to attach a picture to a CorkBoard), and the ability to follow other users, watch CorkBoards, and comment on the images on CorkBoards.
