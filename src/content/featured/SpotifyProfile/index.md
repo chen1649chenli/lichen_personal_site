@@ -3,7 +3,7 @@ date: '3'
 title: 'CorkBoardIT'
 cover: './demo.png'
 github: 'https://github.com/chen1649chenli/CorkBoardIT'
-external: 'http://18.208.208.13'
+external: 'http://www.corkboardit.com'
 tech:
   - Flask
   - Python
