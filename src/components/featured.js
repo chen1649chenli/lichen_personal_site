@@ -116,7 +116,7 @@ const ImgContainer = styled.div`
   position: relative;
   z-index: 1;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: ${colors.white};
   border-radius: 2px;
   grid-column: 6 / -1;
   grid-row: 1 / -1;
@@ -124,7 +124,7 @@ const ImgContainer = styled.div`
   ${media.tablet`height: 100%;`};
   ${media.thone`
     grid-column: 1 / -1;
-    opacity: 0.25;
+    opacity: 0.0;
   `};
   &:hover,
   &:focus {
@@ -187,7 +187,7 @@ const Project = styled.div`
       ${media.tablet`height: 100%;`};
       ${media.thone`
         grid-column: 1 / -1;
-        opacity: 0.25;
+        opacity: 0.0;
       `};
     }
   }
