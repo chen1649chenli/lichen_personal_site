@@ -1,7 +1,9 @@
 # My Personal WebSite
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/94f93a07-c0cf-4603-929c-b70866c5faf6/deploy-status)](https://app.netlify.com/sites/amazing-yalow-4c997a/deploys)
-
+![node version](https://img.shields.io/badge/node-v10.15.3-green.svg)
+![npm version](https://img.shields.io/badge/npm-v6.9.0-red.svg)
+![gatsby version](https://img.shields.io/badge/gatsby-v2.5.9-blue.svg)
 My personal site built with [Gatsby](https://www.gatsbyjs.org/) and hosted with [Netlify](https://www.netlify.com/).
 
 ## 🚀 Quick Start
