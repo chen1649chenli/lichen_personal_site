@@ -103,8 +103,6 @@ const FeaturedImg = styled(Img)`
   vertical-align: middle;
   border-radius: ${theme.borderRadius};
   position: relative;
-  mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1) brightness(90%);
   ${media.tablet`
     object-fit: cover;
     width: auto;
@@ -144,7 +142,7 @@ const ImgContainer = styled.div`
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 3;
+    z-index: ;
     transition: ${theme.transition};
     background-color: ${colors.navy};
     mix-blend-mode: screen;

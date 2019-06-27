@@ -1,14 +1,14 @@
 ---
-date: '3'
+date: '1'
 title: 'CorkBoardIT'
 cover: './demo.png'
 github: 'https://github.com/chen1649chenli/CorkBoardIT'
 external: 'http://www.corkboardit.com'
 tech:
-  - Flask
-  - Python
-  - Mysql
-  - Docker
+  - flask
+  - python
+  - mysql
+  - docker
 show: 'true'
 ---
 

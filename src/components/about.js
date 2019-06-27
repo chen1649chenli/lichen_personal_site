@@ -56,7 +56,7 @@ const PicContainer = styled.div`
 const Avatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1);
+  filter: grayscale(0%) contrast(1);
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;

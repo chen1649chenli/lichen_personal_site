@@ -2,12 +2,13 @@
 date: '3'
 title: 'China Bristro'
 cover: './demo.png'
-github: 'https://github.com/chen1649chenli/conFusion'
-external: 'https://elated-leakey-79ef36.netlify.com/'
+github: 'https://github.com/chen1649chenli/ChinaBristro'
+external: 'http://www.chinabristro.com:4000'
 tech:
-  - html
-  - bootstrap4
+  - react
+  - redux
   - javascript
+  - boostrap4
 
 show: 'true'
 ---
